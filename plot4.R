@@ -44,6 +44,7 @@ plot4 <- function(data_file_path, pic_file_path, pic_name) {
     dev.off()
 }
 
-plot4("/Users/steve/Downloads/EDA_data/household_power_consumption.txt", 
-      "/Users/steve/Downloads", 
-      "test_beta_4.png")
+# The Code below was used for me creating the plot
+# plot4("/Users/steve/Downloads/EDA_data/household_power_consumption.txt", 
+#       "/Users/steve/Downloads", 
+#       "test_beta_4.png")

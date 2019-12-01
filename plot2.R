@@ -20,6 +20,7 @@ plot2 <- function(data_file_path, pic_file_path, pic_name) {
     dev.off()
 }
 
-plot2("/Users/steve/Downloads/EDA_data/household_power_consumption.txt", 
-      "/Users/steve/Downloads", 
-      "test_beta_2.png")
+# The Code below was used for me creating the plot
+# plot2("/Users/steve/Downloads/EDA_data/household_power_consumption.txt", 
+#       "/Users/steve/Downloads", 
+#       "test_beta_2.png")
